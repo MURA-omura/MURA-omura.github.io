@@ -7,8 +7,8 @@ main li {
     display: inline-block;
     position: relative;
     margin: 20px 10% 20px 0;
-    width: 400px;
-    height: 60px;
+    width: 500px;
+    height: 70px;
     border-radius: 20px;
     color: #111;
     background-color: #fff;
@@ -27,5 +27,5 @@ main li a {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 15px;
+    margin-top: 18px;
 }
